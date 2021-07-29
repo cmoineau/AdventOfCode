@@ -27,4 +27,4 @@ jobs:
       uses: alexanderdamiani/pylinter@v1.3.0
       with:
         # directory to run linting on
-        python-root: ./python # optional, default is .
+        python-root: ./python/ # optional, default is .
