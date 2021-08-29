@@ -1,5 +1,7 @@
 # 🌟 AdventOfCode 🌟
 
+My submisions for the [AdventOfCode](https://adventofcode.com/) challenge !
+
 ## Repository organisation :
 
 - [Python](https://github.com/cmoineau/AdventOfCode/tree/master/python): 
