@@ -1,5 +1,5 @@
 import argparse
-from math import floor, ceil
+
 parser = argparse.ArgumentParser(description='Advent of code solution.')
 parser.add_argument('--test','-t', default=False, action='store_true', help='Run the example')
 parser.add_argument('-v', default=False, action='store_true', help='Visualise diagram')
