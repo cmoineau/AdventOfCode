@@ -1,4 +1,8 @@
+# input file for AoC
 input
+
+# vscode config file
+.vsode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
