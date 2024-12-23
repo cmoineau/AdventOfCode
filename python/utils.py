@@ -3,7 +3,7 @@ This file regroup functions often used for AoC problems.
 """
 
 def get_neighbors(tab, i, j, diagonal_allowed=True):
-    """Given a two dimensionnal array, return a list of tuple describing the neighbors of the coordinates x and y
+    """Given a two dimensional array, return a list of tuple describing the neighbors of the coordinates x and y
     """
     neighbors = []
     if i+1 < len(tab):
